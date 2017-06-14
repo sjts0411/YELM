@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "485880463629",
+    "firebase_url": "https://ylem-9a9d2.firebaseio.com",
+    "project_id": "ylem-9a9d2",
+    "storage_bucket": "ylem-9a9d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485880463629:android:9db4c04e26c83c3e",
+        "android_client_info": {
+          "package_name": "com.javaproject.sojung.ylem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485880463629-n6hn53imdppua82bapall49nj75htt70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1V8TCquPQREuE1YdHtv3-a4T_jDCTaZk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

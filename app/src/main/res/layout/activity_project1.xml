@@ -43,4 +43,12 @@
         tools:layout_editor_absoluteX="164dp"
         tools:layout_editor_absoluteY="408dp" />
 
+    <ImageView
+        android:id="@+id/teacherimage"
+        android:layout_width="144dp"
+        android:layout_height="166dp"
+        android:src="drawable/teacher"
+        tools:layout_editor_absoluteX="120dp"
+        tools:layout_editor_absoluteY="16dp" />
+
 </android.support.constraint.ConstraintLayout>

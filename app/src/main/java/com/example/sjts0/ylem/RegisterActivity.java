@@ -2,6 +2,8 @@ package com.example.sjts0.ylem;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.Button;
+import android.widget.EditText;
 import android.widget.Spinner;
 
 import java.util.ArrayList;
@@ -12,6 +14,13 @@ public class RegisterActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_register);
+
+        EditText IdText = (EditText) findViewById(R.id.IdText);
+        EditText PasswordText = (EditText) findViewById(R.id.PasswordText);
+        EditText nameText = (EditText) findViewById(R.id.nameText);
+        EditText schoolText = (EditText) findViewById(R.id.schoolText);
+
+        Button registerButton = (Button) findViewById(R.id.resisterButton);
     }
 
     Spinner spinner1 = (Spinner)findViewById(R.id.acaText);
